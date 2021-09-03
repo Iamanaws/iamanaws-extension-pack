@@ -4,6 +4,7 @@
     "description": "This is my extension pack (:",
     "version": "0.1.0",
     "publisher": "iamanaws",
+    "repository": "https://github.com/Iamanaws/iamanaws-extension-pack",
     "engines": {
         "vscode": "^1.60.0"
     },
