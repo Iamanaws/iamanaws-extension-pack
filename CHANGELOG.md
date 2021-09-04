@@ -1,5 +1,13 @@
 ## Change Log
 
+### 0.2.7 ~ 04 Sep 2021
+
+- Change Log dates fixed
+
+### 0.2.6 ~ 04 Sep 2021
+
+- Failed on publish: Change Log dates fixed
+
 ### 0.2.5 ~ 04 Sep 2021
 
 - LiveServer changed to FiveServer

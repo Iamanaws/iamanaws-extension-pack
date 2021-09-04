@@ -2,7 +2,7 @@
     "name": "iamanaws-extension-pack",
     "displayName": "Iamanaws Extension Pack",
     "description": "This is my extension pack (:",
-    "version": "0.2.5",
+    "version": "0.2.7",
     "publisher": "iamanaws",
     "repository": "https://github.com/Iamanaws/iamanaws-extension-pack",
     "engines": {
