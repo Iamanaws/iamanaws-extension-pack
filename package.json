@@ -2,7 +2,7 @@
     "name": "iamanaws-extension-pack",
     "displayName": "Iamanaws Extension Pack",
     "description": "This is my extension pack (:",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "publisher": "iamanaws",
     "repository": "https://github.com/Iamanaws/iamanaws-extension-pack",
     "engines": {
@@ -74,7 +74,6 @@
         "PKief.material-icon-theme",
         "pranthiks.sendmail",
         "reideroliver1.flappy-code",
-        "ritwickdey.LiveServer",
         "Rwing.minesweeper",
         "saekiraku.rainbow-fart",
         "sdras.night-owl",
@@ -90,6 +89,7 @@
         "WallabyJs.quokka-vscode",
         "wayou.vscode-todo-highlight",
         "XadillaX.viml",
+        "yandeu.five-server",
         "yzhang.markdown-all-in-one",
         "ZhouSir.visual-snake-code"
     ]

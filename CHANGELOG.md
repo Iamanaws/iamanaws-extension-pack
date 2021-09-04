@@ -1,5 +1,9 @@
 ## Change Log
 
+### 0.2.5 ~ 04 Aug 2021
+
+- LiveServer changed to FiveServer
+
 ### 0.2.4 ~ 03 Aug 2021
 
 #### New extensions:
