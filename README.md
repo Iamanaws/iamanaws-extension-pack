@@ -1,4 +1,4 @@
-## README
+<h2> README <img valign="middle" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" /> </h2>
 
 ### This is my extension pack "iamanaws-extension-pack"
 
