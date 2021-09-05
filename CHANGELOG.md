@@ -1,6 +1,6 @@
 ## Change Log
 
-### 0.3.0 ~ 06 Sep 2021
+### 0.3.0 ~ 05 Sep 2021
 
 -  Add logo
 
