@@ -4,7 +4,10 @@
     "description": "This is my extension pack (:",
     "version": "0.2.8",
     "publisher": "iamanaws",
-    "repository": "https://github.com/Iamanaws/iamanaws-extension-pack.git",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Iamanaws/iamanaws-extension-pack.git"
+    },
     "galleryBanner": {
         "color": "cornflowerblue",
         "theme": "dark"
