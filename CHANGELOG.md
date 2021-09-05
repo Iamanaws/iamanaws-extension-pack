@@ -1,5 +1,9 @@
 ## Change Log
 
+### 0.3.0 ~ 06 Sep 2021
+
+-  Add logo
+
 ### 0.2.8 ~ 05 Sep 2021
 
 -  Marketplace visual changes

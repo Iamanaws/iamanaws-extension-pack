@@ -2,12 +2,13 @@
     "name": "iamanaws-extension-pack",
     "displayName": "Iamanaws Extension Pack",
     "description": "This is my extension pack (:",
-    "version": "0.2.8",
+    "version": "0.3.0",
     "publisher": "iamanaws",
     "repository": {
         "type": "git",
         "url": "https://github.com/Iamanaws/iamanaws-extension-pack.git"
     },
+    "icon": "images/icon-mario-qbox.png",
     "galleryBanner": {
         "color": "cornflowerblue",
         "theme": "dark"
