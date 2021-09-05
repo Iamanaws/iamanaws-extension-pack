@@ -2,9 +2,13 @@
     "name": "iamanaws-extension-pack",
     "displayName": "Iamanaws Extension Pack",
     "description": "This is my extension pack (:",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "publisher": "iamanaws",
     "repository": "https://github.com/Iamanaws/iamanaws-extension-pack",
+    "galleryBanner": {
+        "color": "cornflowerblue",
+        "theme": "dark"
+    }, 
     "engines": {
         "vscode": "^1.60.0"
     },

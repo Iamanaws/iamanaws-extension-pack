@@ -7,7 +7,7 @@ Useful, funny, and coding, all my extensions in one place.
 
 ### Next Steps
 
-I want to make multiple extension packs of similar extensions and then packed all here
+I want to make multiple extension packs with similar extensions and then package them all here.
 
 &nbsp;
 
